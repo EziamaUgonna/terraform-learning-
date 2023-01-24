@@ -11,8 +11,8 @@ terraform {
 
 provider "aws" {
     #region = "ca-central-1"
-    #access_key = "AKIA6E4QUBYS3MPOXAHP"
-    #secret_key = "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"
+    #access_key = 
+    #secret_key = 
 }
 
 #variable "cidr_blocks" {
